@@ -6,7 +6,7 @@ Requires a config.json file with a token and clientID.
 
 ## Usage
 
-First, install the required dependencies with:
+First, install the required dependencies with
 
     npm install
     
